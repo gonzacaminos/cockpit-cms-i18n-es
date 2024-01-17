@@ -18,7 +18,7 @@
   'Readonly' => 'Solo lectura',
   'Rename' => 'Renombrar',
   'Save' => 'Guardar',
-  'Settings' => 'Configuraciones',
+  'Settings' => 'Ajustes',
   'Size' => 'Tamaño',
   'Updated' => 'Actualizado',
   'Upload failed!' => '¡Error al cargar!',

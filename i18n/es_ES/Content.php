@@ -49,6 +49,7 @@
   'Manage models' => 'Gestionar modelos',
   'Matching filter' => 'Filtrar coincidencias',
   'Model' => 'Modelo',
+  'Models' => 'Modelos',
   'Model accent color' => 'Color de acento del modelo',
   'Model actions' => 'Acciones del modelo',
   'Model can have multiple items' => 'El modelo puede tener varios elementos',
